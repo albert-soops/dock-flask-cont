@@ -1,3 +1,13 @@
 Use containers for Python development
 
 https://docs.docker.com/language/python/develop/
+
+en
+
+Configure CI/CD for your Python application
+https://docs.docker.com/language/python/configure-ci-cd/
+
+en
+
+Test your Python deployment
+https://docs.docker.com/language/python/deploy/
